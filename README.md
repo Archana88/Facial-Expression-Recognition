@@ -1,5 +1,5 @@
 # Facial-Expression-Recognition
-Facial Expression Recognition using Softmax Regression and ANN
+Facial Expression Recognition using Softmax Regression and ANN using Python and Tensorflow.
 
 In our project, we are using two algorithms to detect facial expressions - Softmax Logistic Regression and Artificial Neural Networks and then we are comparing them.
 
